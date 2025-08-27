@@ -18,23 +18,16 @@
 
 ---
 
-### 🛠️ Maintenance Request System
+### 🛠️ Maintenance Request & Tracking
 - **User Requests:** Guests or staff can submit repair or maintenance requests  
 - **Staff Assignment:** Admins assign tasks to maintenance personnel with deadlines  
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c23212da-aacc-4401-a78c-fb9df87ad295" height="500px" />
-</div>
-
----
-
-### 📊 Maintenance Request Tracking
 - **Status Tracking:** Requests move through states (Submitted → In Progress → Fixed)  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1a724aac-a0cf-4dce-8f75-2847641b881f" height="500px" />
+  <img src="https://github.com/user-attachments/assets/c23212da-aacc-4401-a78c-fb9df87ad295" height="500px" />
   <img src="https://github.com/user-attachments/assets/b870e10d-2c4b-43ba-83f9-fba12053b8d5" height="500px" />
 </div>
+
 
 ---
 

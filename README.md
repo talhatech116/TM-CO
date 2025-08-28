@@ -51,11 +51,9 @@ Owners of multiple facilities (hotels, gyms, camps) were overwhelmed with fragme
 There was **no centralized platform** where owners could both **showcase their properties** and **streamline operational workflows**.
 
 ### 💡 The Solution
-We built **TMCO** — a unified mobile app designed specifically for property managers and service teams.  
+I built **TMCO** — a unified mobile app designed specifically for property managers and service teams.  
 
 - Centralized listing of all facilities under one platform  
 - Real-time maintenance request system connected directly to staff  
 - Seamless guest check-in/check-out experience  
 - Operational insights for owners to make data-driven decisions  
-
-> Need a live demo or app walkthrough? Contact the team or check the `docs/` folder.
